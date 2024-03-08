@@ -49,3 +49,4 @@ Traffic accidents are a significant concern globally, leading to injuries, fatal
 - Scikit-learn: Machine learning model development.
 - Folium: Geospatial data visualization.
 - Matplotlib and Seaborn: Additional data visualization tools.
+![image](https://github.com/utoo0703/ACCIDENT-ZONE-PREDICTION/assets/78578594/c4564563-9547-47bd-8ed1-3ee2b5803725)
