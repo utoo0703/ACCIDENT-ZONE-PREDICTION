@@ -26,6 +26,9 @@ Traffic accidents are a significant concern globally, leading to injuries, fatal
    - Marker clustering: Enhancing map readability by clustering nearby markers.
    - HTML export: Saving the interactive map as an HTML file for easy sharing.
 
+## Project Report
+
+For a detailed project report, you can refer to [Project Report PDF]
 ## Project Structure
 
 |-- venv/
@@ -49,4 +52,11 @@ Traffic accidents are a significant concern globally, leading to injuries, fatal
 - Scikit-learn: Machine learning model development.
 - Folium: Geospatial data visualization.
 - Matplotlib and Seaborn: Additional data visualization tools.
+
+## Project Visualization
 ![image](https://github.com/utoo0703/ACCIDENT-ZONE-PREDICTION/assets/78578594/c4564563-9547-47bd-8ed1-3ee2b5803725)
+
+![Screenshot 2024-03-08 100901](https://github.com/utoo0703/ACCIDENT-ZONE-PREDICTION/assets/78578594/3a56a6f0-8c41-4706-b9e0-44e32e6f1745)
+
+![image](https://github.com/utoo0703/ACCIDENT-ZONE-PREDICTION/assets/78578594/41329134-a47d-497a-b537-e596fe09b602)
+
