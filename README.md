@@ -28,7 +28,7 @@ Traffic accidents are a significant concern globally, leading to injuries, fatal
 
 ## Project Report
 
-For a detailed project report, you can refer to [Project Report PDF]
+For a detailed project report, you can refer to [Project Report PDF] https://github.com/utoo0703/ACCIDENT-ZONE-PREDICTION/blob/main/Project%20Report.pdf
 ## Project Structure
 
 |-- venv/
